@@ -58,13 +58,16 @@ Just doing this for a side proj so feel free to use however with your own api ke
 
 
 ## ASSETS
-<img width="1853" height="915" alt="Screenshot 2026-04-25 135118" src="https://github.com/user-attachments/assets/ba90ca2d-7f4f-4f4e-9362-aaa9ab904fae" />
-<img width="1847" height="923" alt="Screenshot 2026-04-25 135158" src="https://github.com/user-attachments/assets/444017d2-35df-44ad-a19f-55ebee34aa60" />
-<img width="1835" height="888" alt="Screenshot 2026-04-25 135209" src="https://github.com/user-attachments/assets/c187502d-f852-4be5-b9ce-fcf270eb621d" />
-<img width="1861" height="898" alt="Screenshot 2026-04-25 135215" src="https://github.com/user-attachments/assets/0b73601d-50bf-41c0-bd4e-56ee506bc660" />
-<img width="1853" height="912" alt="Screenshot 2026-04-25 135222" src="https://github.com/user-attachments/assets/11484f39-576a-4d30-bf42-de8377d66b5d" />
-<img width="1860" height="916" alt="Screenshot 2026-04-25 135228" src="https://github.com/user-attachments/assets/ca33d3b4-b6ac-4bb5-b056-a29e6d9ff709" />
-<img width="1857" height="912" alt="Screenshot 2026-04-25 135245" src="https://github.com/user-attachments/assets/c1b52dee-813b-4d9c-b4f1-5a57759f521a" />
-<img width="1856" height="911" alt="Screenshot 2026-04-25 135319" src="https://github.com/user-attachments/assets/c8cecc24-b290-4d4a-b7d1-f96f42cb9906" />
-<img width="1865" height="924" alt="Screenshot 2026-04-25 135328" src="https://github.com/user-attachments/assets/1b7fe92b-0e34-4fb2-bc7d-1a407834512e" />
-<img width="1859" height="914" alt="Screenshot 2026-04-25 135337" src="https://github.com/user-attachments/assets/ac9260fb-506d-40a6-910b-1c8fce3aa8c2" />
+<img width="1853" height="920" alt="Screenshot 2026-04-25 141228" src="https://github.com/user-attachments/assets/b1531117-3fcd-42b9-90cc-ff2b8e059b54" />
+<img width="1857" height="804" alt="Screenshot 2026-04-25 141246" src="https://github.com/user-attachments/assets/64103903-d2f9-4793-8a1a-f46d6597a6e6" />
+<img width="1856" height="801" alt="Screenshot 2026-04-25 141259" src="https://github.com/user-attachments/assets/65260e1d-301b-4773-aaa3-fbb38e620748" />
+<img width="1852" height="815" alt="Screenshot 2026-04-25 141314" src="https://github.com/user-attachments/assets/2065578a-d129-43b2-a1b2-096542c8f4cd" />
+<img width="1837" height="793" alt="Screenshot 2026-04-25 141331" src="https://github.com/user-attachments/assets/6079f5c4-55d9-4390-81f2-4865ff484736" />
+<img width="1846" height="803" alt="Screenshot 2026-04-25 141346" src="https://github.com/user-attachments/assets/822bc49d-9bf0-4c2a-966c-096f4d422d02" />
+<img width="1846" height="768" alt="Screenshot 2026-04-25 141359" src="https://github.com/user-attachments/assets/6d58f580-d1e0-4a22-9bfc-762a98e56478" />
+<img width="1863" height="866" alt="Screenshot 2026-04-25 141531" src="https://github.com/user-attachments/assets/c70fe63a-1aab-4a95-bfd3-35d845779be9" />
+<img width="1859" height="788" alt="Screenshot 2026-04-25 141543" src="https://github.com/user-attachments/assets/ce0b8aa8-8790-4837-b32a-44d419b25e46" />
+<img width="1849" height="793" alt="Screenshot 2026-04-25 141550" src="https://github.com/user-attachments/assets/444ee994-3ebb-44f9-ba1f-700ee8eaeced" />
+<img width="1858" height="554" alt="Screenshot 2026-04-25 141601" src="https://github.com/user-attachments/assets/42f8a449-8dab-4739-8d36-5d93940537c3" />
+
+
