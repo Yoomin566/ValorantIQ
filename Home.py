@@ -41,9 +41,9 @@ st.divider()
 
 col1, col2, col3, col4 = st.columns([2, 1, 1, 1])
 with col1:
-    username = st.text_input("RIOT USERNAME", value="Yoomi", placeholder="Enter username")
+    username = st.text_input("RIOT USERNAME", value="", placeholder="Enter username")
 with col2:
-    tagline = st.text_input("TAG", value="inn", placeholder="TAG")
+    tagline = st.text_input("TAG", value="", placeholder="TAG")
 with col3:
     num_matches = st.selectbox("MATCHES", [5, 10], index=1)
 with col4:
